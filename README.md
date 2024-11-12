@@ -1,9 +1,3 @@
-I'll examine the contents of your notebook to create a README. Please give me a moment.
-
-Based on the contents of your notebook, here’s a README in markdown format for your YouTube Video Summarizer project:
-
----
-
 # YouTube Video Summarizer
 
 This project is a Python-based tool that summarizes YouTube videos using the OpenAI API. It processes YouTube video transcripts to create brief, comprehensive summaries that capture the main ideas and key takeaways.
